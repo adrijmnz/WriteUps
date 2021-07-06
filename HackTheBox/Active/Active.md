@@ -60,7 +60,7 @@ Y ahora con el dominio añadido voy a utilizar la herramienta "dig" en busca de 
 
 Vemos que también esta el puerto 445 abierto en el que corre el servicio "Samba" y es un puerto muy importante de enumerar, para ello utilizaremos la herramienta "smbclient" que nos permite ver archivos internos de la maquina:
 
-Con el comando : smbclient -L <IPMACHINE> -N 
+Con el comando : `smbclient -L <IPMACHINE> -N` 
 
 -L para listar el contenido 
 

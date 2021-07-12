@@ -164,6 +164,8 @@ Seguimos la ruta que nos marca el BloodHound:
 
 ![images/Untitled%2021.png](images/Untitled%2021.png)
 
+Cross Domain Attacks – MS Exchange -Organization Management
+
 El usuario svc-alfresco es miembro de ACCOUNT OPERATOR y este grupo tiene permisos de GenericAll en el grupo EXCHANGE WINDOWS PERMISIONS, hacemos click drecho en GenericAll y le damos a help, luego AbuseInfo y nos dira de que forma podemos aprovecharnos de esto:
 
 ![images/Untitled%2022.png](images/Untitled%2022.png)

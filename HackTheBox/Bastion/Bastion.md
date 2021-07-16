@@ -102,6 +102,8 @@ si el comando qemu-nbd no os funciona teneis que instalarlo:
 
 `sudo apt-get install qemu-kvm qemu virt-manager virt-viewer`
 
+# **ESC. PRIV. ROOT**
+
 Enumeramos la montura y en el directorio Users no vemos nada relevante, asi que enumeramos el directorio : C:\Windows\System32\config
 
 ![images/Untitled%2017.png](images/Untitled%2017.png)

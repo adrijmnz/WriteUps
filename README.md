@@ -14,7 +14,7 @@
 
 | Room Name                                                   | Difficulty Level | Type  | Skills Focused                                        |
 | ----------------------------------------------------------- | ---------------- | ----- | ----------------------------------------------------- |
-| [Monteverde](HackTheBox/Easy/Monteverde/Monteverde.md)                      | Medium             | Windows   | Active Directory, Azure AD                            |
+| [Monteverde](HackTheBox/Medium/Monteverde/Monteverde.md)                      | Medium             | Windows   | Active Directory, Azure AD                            |
 
 ## Hard
 

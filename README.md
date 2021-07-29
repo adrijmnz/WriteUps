@@ -2,7 +2,7 @@
 
 ## Easy
 
-| Room Name                                                    | Difficulty Level | Type    | Skills Focused                                               |
+| Room Name                                                    | Difficulty Level | OS    | Skills Focused                                               |
 | ------------------------------------------------------------ | ---------------- | ------- | ------------------------------------------------------------ |
 | [Active](HackTheBox/Easy/Active/Active.md)     | Easy             | Windows   | Active Directory, SMB,  OSCP                                |
 | [Bastion](HackTheBox/Easy/Bastion/Bastion.md)                          | Easy             | Windows   | Active Directory, SMB, OSCP                                |
@@ -12,11 +12,11 @@
 
 ## Medium
 
-| Room Name                                                   | Difficulty Level | Type  | Skills Focused                                        |
+| Room Name                                                   | Difficulty Level | OS  | Skills Focused                                        |
 | ----------------------------------------------------------- | ---------------- | ----- | ----------------------------------------------------- |
 | [Monteverde](HackTheBox/Medium/Monteverde/Monteverde.md)                      | Medium             | Windows   | Active Directory, Azure AD                            |
 
 ## Hard
 
-| Room Name                                                   | Difficulty Level | Type  | Skills Focused                                        |
+| Room Name                                                   | Difficulty Level | OS  | Skills Focused                                        |
 | ----------------------------------------------------------- | ---------------- | ----- | ----------------------------------------------------- |

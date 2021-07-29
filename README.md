@@ -4,7 +4,7 @@
 
 | Room Name                                                    | Difficulty Level | Type    | Skills Focused                                               |
 | ------------------------------------------------------------ | ---------------- | ------- | ------------------------------------------------------------ |
-| [Active](.HackTheBox/Easy/Active/Active.md)     | Easy             | Windows   | Active Directory, SMB,  OSCP                                |
+| [Active](HackTheBox/Easy/Active/Active.md)     | Easy             | Windows   | Active Directory, SMB,  OSCP                                |
 | [Bastion](./Easy/Bastion/Bastion.md)                          | Easy             | Windows   | Active Directory, SMB, OSCP                                |
 | [Forest](./Easy/Forest/Forest.md)               | Easy             | Windows   | Active Directory, ASP-RESP Roasting, BloodHound, DCSync, OSCP         |
 | [Monteverde](./Easy/Monteverde/Monteverde.md)                      | Easy             | Windows   | Active Directory, Azure AD                            |

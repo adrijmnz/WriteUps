@@ -1,6 +1,13 @@
 # TheNoteBook
 
+<<<<<<< HEAD
+Buenas! Hoy os voy a enseñar a como pwnear la maquina de HTB que acaban de retirar llamada TheNoteBook, es una maquina de dificultad media y de sistema operativo linux, os dejo aquí unas estadísticas de la maquina y la guia que vamos a seguir:
+
+![images/excalidraw.png](images/excalidraw.png)
+=======
 Buenas! Hoy os voy a enseñar a como pwnear la maquina de HTB que acaban de retirar llamada TheNoteBook, es una maquina de dificultad media y de sistema operativo linux, os dejo aquí unas estadísticas de la maquina:
+Os dejo aqui una guia de la maquina: https://excalidraw.com/#json=6042954363830272,cxq56Za2uFdpMYtCd9o3GQ
+>>>>>>> 7d9346ac64d68ea408c710ad1ff0ea3449992a00
 
 ![images/Untitled.png](images/Untitled.png)
 
@@ -180,7 +187,7 @@ Examinando que podemos hacer con el comando:
 
 ![images/Untitled%2032.png](images/Untitled%2032.png)
 
-Podemos ejecutar comandos en un contenedor, vamos a expaunear una bash:
+Podemos ejecutar comandos en un contenedor, vamos a spawnear una bash:
 
 ![images/Untitled%2033.png](images/Untitled%2033.png)
 
@@ -198,7 +205,7 @@ Lo compilamos con `go build main.go` , y nos pasamos el archivo main al docker:
 
 ![images/Untitled%2036.png](images/Untitled%2036.png)
 
-Y cuando veamos el Oerwritten ejecutamos en otra ventana :
+Y cuando veamos el Overwritten ejecutamos en otra ventana :
 
 ![images/Untitled%2037.png](images/Untitled%2037.png)
 

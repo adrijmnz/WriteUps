@@ -1,6 +1,7 @@
 # TheNoteBook
 
 Buenas! Hoy os voy a enseñar a como pwnear la maquina de HTB que acaban de retirar llamada TheNoteBook, es una maquina de dificultad media y de sistema operativo linux, os dejo aquí unas estadísticas de la maquina:
+Os dejo aqui una guia de la maquina: https://excalidraw.com/#json=6042954363830272,cxq56Za2uFdpMYtCd9o3GQ
 
 ![images/Untitled.png](images/Untitled.png)
 

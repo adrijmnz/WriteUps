@@ -180,7 +180,7 @@ Examinando que podemos hacer con el comando:
 
 ![images/Untitled%2032.png](images/Untitled%2032.png)
 
-Podemos ejecutar comandos en un contenedor, vamos a expaunear una bash:
+Podemos ejecutar comandos en un contenedor, vamos a spawnear una bash:
 
 ![images/Untitled%2033.png](images/Untitled%2033.png)
 
@@ -198,7 +198,7 @@ Lo compilamos con `go build main.go` , y nos pasamos el archivo main al docker:
 
 ![images/Untitled%2036.png](images/Untitled%2036.png)
 
-Y cuando veamos el Oerwritten ejecutamos en otra ventana :
+Y cuando veamos el Overwritten ejecutamos en otra ventana :
 
 ![images/Untitled%2037.png](images/Untitled%2037.png)
 

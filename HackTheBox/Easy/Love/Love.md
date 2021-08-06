@@ -126,7 +126,7 @@ El directorio /admin/ me reporta otro login pero no me pide un ID sino un usuari
 
 # **EXPLOTACION DE LA VULNERABILIDAD**
 
-Después de enumerar las paginas, en la pagina stanging.love.htb hay un beta.php que es un scanner de archivos url, pruebo un RFI a mi maquina atacante poniéndome en escucha con python y haciendo una petición a mi maquina, pero sin resultado, entonces intento ver archivos internos de la maquina:
+Después de enumerar las paginas, en la pagina stanging.love.htb hay un beta.php que es un scanner de archivos url, pruebo un RFI a mi maquina atacante poniéndome en escucha con python y haciendo una petición a mi maquina, pero sin éxito, entonces intento ver archivos internos de la maquina:
 
 ![images/Untitled%202.png](images/Untitled%202.png)
 

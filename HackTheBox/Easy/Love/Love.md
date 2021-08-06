@@ -243,18 +243,15 @@ Ahora ejecutaremos el comando de consulta del registro en este símbolo del sist
 
 ```bash
 reg query HKCU\SOFTWARE\Policies\Microsoft\Windows\Installer /v AlwaysInstallElevated 
-reg query HKCU\SOFTWARE\Policies\Microsoft\Windows\Installer /v AlwaysInstallElevated 
 
 HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Installer
     AlwaysInstallElevated    REG_DWORD    0x1
 
 reg query HKLM\SOFTWARE\Policies\Microsoft\Windows\Installer /v AlwaysInstallElevated
-reg query HKLM\SOFTWARE\Policies\Microsoft\Windows\Installer /v AlwaysInstallElevated
 
 HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Installer
     AlwaysInstallElevated    REG_DWORD    0x1
 
-AlwaysInstallElevated.msi
 AlwaysInstallElevated.msi
 
 C:\Users\Phoebe\Desktop>

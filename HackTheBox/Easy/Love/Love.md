@@ -269,10 +269,8 @@ Microsoft Windows [Version 10.0.19042.867]
 (c) 2020 Microsoft Corporation. All rights reserved.
 
 whoami
-whoami
 nt authority\system
 
-hostname
 hostname
 Love
 

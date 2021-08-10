@@ -16,7 +16,7 @@
 | ----------------------------------------------------------- | ---------------- | ----- | ----------------------------------------------------- |
 | [Monteverde](HackTheBox/Medium/Monteverde/Monteverde.md)                      | Medium             | Windows   | Active Directory, Azure AD                            |
 | [TheNoteBook](HackTheBox/Medium/TheNoteBook/TheNoteBook.md)                      | Medium             | Linux   | Web, Cookie, JWT, Docker                   |
-| [Nineveh](HackTheBox/Medium/Nineveh/Nineveh.md)                      | Medium             | Linux   | Web, LFI, Brute-Force, chokrootkit, Scripting                   |
+| [Nineveh](HackTheBox/Medium/Nineveh/Nineveh.md)                      | Medium             | Linux   | Web, LFI, Brute-Force, chokrootkit, Port Knocking, Scripting          |
 
 ## Hard
 

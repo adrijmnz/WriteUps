@@ -9,6 +9,7 @@
 | [Forest](HackTheBox/Easy/Forest/Forest.md)               | Easy             | Windows   | Active Directory, ASP-RESP Roasting, BloodHound, DCSync, OSCP         |
 | [Sauna](HackTheBox/Easy/Sauna/Sauna.md)        | Easy             | Windows   | Active Directory, ASP-RESP Roasting                                              |
 | [Love](HackTheBox/Easy/Love/Love.md)        | Easy             | Windows   | SSRF, AlwaysInstallElevated                                           |
+| [Valentine](HackTheBox/Easy/Valentine/Valentine.md)        | Easy             | Linux   | Web, HeartBleed, OSCP                                           |
 
 ## Medium
 

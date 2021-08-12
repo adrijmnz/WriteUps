@@ -13,7 +13,7 @@
 
 ## Medium
 
-| Room Name                                                    Level | OS  | Skills Focused                                        |
+| Room Name                                                     | OS  | Skills Focused                                        |
 | -----------------------------------------------------------  | ----- | ----------------------------------------------------- |
 | [Monteverde](HackTheBox/Medium/Monteverde/Monteverde.md)                                   | Windows   | Active Directory, Azure AD                            |
 | [TheNoteBook](HackTheBox/Medium/TheNoteBook/TheNoteBook.md)                                   | Linux   | Web, Cookie, JWT, Docker                   |
@@ -21,11 +21,11 @@
 
 ## Hard
 
-| Room Name                                                   | Difficulty Level | OS  | Skills Focused                                        |
-| ----------------------------------------------------------- | ---------------- | ----- | ----------------------------------------------------- |
+| Room Name                                                     | OS  | Skills Focused                                        |
+| -----------------------------------------------------------  | ----- | ----------------------------------------------------- |
 
 ## Insane
 
-| Room Name                                                   | Difficulty Level | OS  | Skills Focused                                        |
-| ----------------------------------------------------------- | ---------------- | ----- | ----------------------------------------------------- |
+| Room Name                                                     | OS  | Skills Focused                                        |
+| -----------------------------------------------------------  | ----- | ----------------------------------------------------- |
 

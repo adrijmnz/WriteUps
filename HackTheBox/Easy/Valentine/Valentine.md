@@ -86,7 +86,7 @@ Copiamos y pegamos los datos en un decoder online cualquiera, os dejo por aqui u
 
 ![images/Untitled%202.png](images/Untitled%202.png)
 
-Tenemos una clave id_rsa, ¿pero de quien? pues algo que podemos intuir es que el usuario es hype (hype_key), pero esta id_rsa esta encriptada por lo que necesitamos una contraseña, con la utilidad [ssh2john.py](http://ssh2john.py) podemos intentar romper esa contraseña:
+Tenemos una clave id_rsa, ¿pero de quien? pues algo que podemos intuir es que el usuario es hype (hype_key), pero esta id_rsa esta encriptada por lo que necesitamos una contraseña, con la utilidad [ssh2john.py] podemos intentar romper esa contraseña:
 
 ```bash
 ❯ nano id_rsa
